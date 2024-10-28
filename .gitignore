@@ -6,6 +6,12 @@ build
 .venv
 .vscode
 .amltconfig
+env/
+
+SlimPajama-627B
+flash-attention
+mamba
+causal-conv1d
 
 # data
 data
@@ -13,3 +19,5 @@ checkpoints
 out
 wandb
 amlt
+
+cuda-keyring*
